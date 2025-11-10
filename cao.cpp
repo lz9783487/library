@@ -202,8 +202,8 @@ using vvvl = VVV<ll>;
 #define sz(x) ((int) x.size())
 #define all(x) (x).begin(), (x).end()
 #define rall(x) (x).rbegin(), (x).rend()
-#define ft front
-#define bk back
+#define ft front()
+#define bk back()
 #define in insert
 #define pb push_back
 #define eb emplace_back
